@@ -1,4 +1,4 @@
-# Permanente-2a
+# Código Biblioteca Virtual
 Primero definimos la variable salir y las listas: libros_disponibles_estudiantes, libros_prestados_estudiantes, 
 libros_disponibles_docentes, libros_prestados_docentes.
 
